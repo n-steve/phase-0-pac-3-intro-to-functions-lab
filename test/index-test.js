@@ -80,7 +80,7 @@ function sayHiToHeadphonedRoommate(string) {
     return "I can't hear you!";
   } else if (string == shout(string)) {
     return "YES INDEED!";
-  } else if (string = "Let's have a dinner together!") {
+  } else if (string == "Let's have dinner together!") {
     return "I would love to!";
   }
 }
